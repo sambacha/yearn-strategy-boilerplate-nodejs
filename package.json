@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-strategy-mix",
+  "name": "@yfi/nodejs-strategy-mix",
   "version": "1.0.0",
   "description": "## What you'll find here",
   "main": "truffle-config.js",
